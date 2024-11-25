@@ -87,3 +87,13 @@
 | tr     | To replace one character with another                                         |
 | cut    | To select info delimited by some delimiters<br>> -d"{delimiter}" -f{position} |
 | column | To give a basic 'column' type formatting to the output                        |
+| awk    | More sophisticated than cut, can choose multiple "columns" to display.        |
+| sed    | To replace some strings with other in the output                              |
+| wc     | To count<br>-l > To count lines                                               |
+
+##### Permission Management
+| NAME  | DESCRIPTION        |
+| ----- | ------------------ |
+| chmod | Change permissions |
+| chown | Change owner       |
+Sticky bit --> Only the file owner, the directory owner, or the root user can delete or rename files in that directory, regardless of the directory's write permissions.
