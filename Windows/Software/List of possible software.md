@@ -1,0 +1,3 @@
+- Chocolatey  -> Windows Package Manager
+	- https://docs.chocolatey.org/en-us/
+- WSL -> Windows Sub-system for Linux
